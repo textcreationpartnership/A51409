@@ -1,0 +1,330 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse concerning a lumber-office being a true remedy for the scarcity of money.</title>
+            <author>Morton, Charles, 1659 or 60-1731.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51409</idno>
+            <idno type="STC">Wing M2822</idno>
+            <idno type="STC">ESTC R216849</idno>
+            <idno type="EEBO-CITATION">99828565</idno>
+            <idno type="PROQUEST">99828565</idno>
+            <idno type="VID">32994</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51409)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32994)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1931:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse concerning a lumber-office being a true remedy for the scarcity of money.</title>
+                  <author>Morton, Charles, 1659 or 60-1731.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Sam. Darker, for J. Lawrence, at the Angel in the Poultrey,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. Attributed to Charles Morton, M.D. (MS. note, GK).</note>
+                  <note>Copy cataloged signed on title page in MS.: "By Charles Morton M.D.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Money --  England --  Early works to 1800.</term>
+               <term>Money supply --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32994:1" rendition="simple:additions"/>
+            <p>A DISCOURSE CONCERNING <hi>A Lumber-Office:</hi> BEING A True Remedy FOR THE Scarcity of Money.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Sam Darker,</hi> for <hi>J. Lawrence,</hi> at the <hi>Angel</hi> in the <hi>Poultrey.</hi> 1696.</p>
+            <pb facs="tcp:32994:2"/>
+            <pb facs="tcp:32994:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:32994:3"/>
+            <pb n="3" facs="tcp:32994:3"/>
+            <head>A DISCOURSE concerning <hi>A Lumber-Office:</hi> BEING A True Remedy for the Scarcity of Money.</head>
+            <p>A <hi>Lumber-Office</hi> has been long ſince ſuggeſted as an undertaking of great Advantage to the Nation, and certainly 'tis our misfortune that ways and means to render it practicable have not yet been adjuſted. But if it were deſirable formerly, much more may it now, during the ſcarcity of mony; for the Notes of Credit which might be given out upon the ſecurity of Goods, would be in effect ſo much mony, and the National Medium of Commerce being thus enlarged, Trade might take its courſe as formerly: but according to the preſent method we are in, Mo<g ref="char:EOLhyphen"/>ny is growing ſcarcer, and Trade is decaying daily. Some may perhaps im<g ref="char:EOLhyphen"/>pute our Calamity to the preſent <hi>Abatement</hi> of the Numbred Mony: but there is no reaſon for that, ſince we have experienced not long ago that <hi>Gui<g ref="char:EOLhyphen"/>neys</hi> (alone) did much better anſwer the demands of Trade, than all our Gold and Silver does now; or if ſuch Abatement before mentioned, were the cauſe of it, what is the reaſon that by ſo vaſt an addition of new Mony as has been ſince Coined, we do not find our Calamity proportionably re<g ref="char:EOLhyphen"/>dreſſed? The Addition of two Millions, certainly is ſufficient to make a Conjecture by; but if inſtead of relief we find Mony more ſcarce, and Trade more ſunk, then the cauſe of our ſuffering lies ſomewhere elſe, <hi>Viz.</hi> In the loſs of our Paper Credit: And unleſs this be re-eſtabliſhed as well as the Coin, our difficulties muſt continue. You'll ſay, when the Coin is Re<g ref="char:EOLhyphen"/>minted, Paper will be paid as formerly, and ſo its credit will be reſtored in <hi>ſtatu quo.</hi> But Mony having got the ſtart, it will be a long time before Pa<g ref="char:EOLhyphen"/>per can overtake it again: For how can Paper be reſtored unleſs Notes be paid? And how can Notes be paid ſo long as Mony bears a price? (For the profit by Banking, will not Countervail the charge of procuring Mony to pay Paper with) and how can we expect this price ſhould be brought down by the Addition of 3 or 4 Millions more to compleat our caſh, ſince three Millions already Coin'd have no way abated its price? But after all, we find Mony is ſcarcer then ever. 'Tis ſomewhat ſurprizing, but yet the rea<g ref="char:EOLhyphen"/>ſon is plain: Paper was always of ſuch uſe in Trade, that 'tis more then probable, the National Caſh was hardly a third part of the medium of Com<g ref="char:EOLhyphen"/>merce;
+<pb n="4" facs="tcp:32994:4"/>and if 2 thirds of this medium ſhall be ſunk, it neceſſary follows, that the other third ſhould bear a conſiderable price; and price will make it more ſcarce, becauſe every Man will keep it for Sale; and at this rate, had we never ſo much Coined, it would never be plenty. Whereas if Paper were Current, there would be no Temptation to keep up Mony; for as Mony Circulates Paper, ſo Paper Circulates Mony, <hi>i. e.</hi> draws it forth into uſe: And therefore they are abſolutely neceſſary to each other. Some perhaps may fancy it better, that Paper were altogether laid aſide, and that its Room were ſupplyed with Plenty of Mony; but as the former would be ab<g ref="char:EOLhyphen"/>ſurd, ſo the latter is impracticable, 'tis impoſſible to multiply Mony to that degree, as to Anſwer (by it ſelf) the demands of Trade; for the Gold and Silver Manufactures do employ great part of the Bullion, and 'tis not much can be ſpared to make Mony of; and when 'tis made, if Bullion be wanting to their Buſineſs, the Mony muſt return to the melting Pot, becauſe ſuch Demands of Bullion, will raiſe its price beyond the value of the Mony. But ſuppoſe all the Silver and Gold extant, were made into Mony, and that it were poſſible to preſerve it in that form, yet this whole quantity is but lit<g ref="char:EOLhyphen"/>tle, Comparatively to the value of all other Merchandice, and therefore would be but a ſcanty Diſproportionable meaſure, to the thing meaſured. Thus it being paſt all doubt, that Paper is indiſpenſably neceſſary to the In<g ref="char:EOLhyphen"/>tereſt of Trade; the next thing will be to propoſe ſuch a ſort of Paper, as will be unexceptionable. As for the Notes abroad, at preſent, 'tis impoſſi<g ref="char:EOLhyphen"/>ble they ſhould be paid; during the price of Mony, for ſo, the Bankers would quickly pay themſelves out of Doors; but the ſecured Notes we here treat of, will be paid, in regard the Merchants and Tradeſmen that give them out upon their Goods, do receive ſuch conſiderable Advantage by them, that they cannot but think it worth their while to purchaſe Mony at any rate to pay them withal; thus if they are duely paid, they will Anſwer as Mony, and ſo (by removing the diſcount between Mony and Paper) Trade will revive and our difficulties will ſoon be over.</p>
+            <p>Having premiſed a few things, to ſhew the reaſonableneſs of this under<g ref="char:EOLhyphen"/>taking, I ſhall proceed to give a deſcription of a plain and practicable me<g ref="char:EOLhyphen"/>thod to Accompliſh what we have propoſed, and tho it be in brief, yet I hope it may be clear and ſatisfactory to all, <hi>Viz.</hi>
+            </p>
+            <p n="1">1. The Pledge here intended is not to be Lands nor Houſes, but <hi>Goods,</hi> for theſe being moveable are free from all diſpute about Title, and are rea<g ref="char:EOLhyphen"/>dily ſold, in caſe the Notes ſecured by them are not duely paid.</p>
+            <p n="2">2. Theſe Goods are to be made ſecurity according to form of Law, (not that they are pawned; for here is no Mony borrowed on them, nor are they to be redeemed by Mony) but they are <hi>depoſited</hi> in the hands of an indifferent perſon, to aſſure the Bearer of ſuch Notes, that the reſpective Principals are able to pay, and by their making them a ſtrict ſecurity, it appears, they reſolve to be punctual at time of Payment.</p>
+            <pb n="5" facs="tcp:32994:4"/>
+            <p n="3">3. The goods deſigned to be entred at the Office, are firſt to be viewed by a Sworn Appraiſer, who has given Security of his fidelity in that matter, he is to draw up an Inventory of their Qualities, Quantities and Values: The Warehouſe-Keeper that is to take them into Cuſtody being preſent, that he may be able to Subſcribe, that he has received the Contents of the Inventory: And the Warehouſe-Keeper having received the Goods, is to declare a truſt for the Bearers of the Notes given out upon them, whereby he is obliged to detain them until the Notes are ſatisfied.</p>
+            <p n="4">4. The deed whereby the Goods are made a Pledge, may contain to this effect, <hi>Viz.</hi> That the Goods entred ſhall be redeemable at any time, with the ſame Number of Notes taken out upon them. That the Goods may be viewed by <hi>A. B.</hi> at the <hi>Lumber-Office,</hi> or his aſſigus once after entry, if they ſhall think fit. That they ſhall be removed within 12 Months after Entry. That a tenth part of the value of the Notes in Mony, be Lodged at the place of payment, directed on the Notes reſpectively. That all ſuch Notes ſhall be duely paid within 14 days, after the reſpective Bearers have given notice thereof at the place of Payment. That in caſe the owner ſhall lapſe the time of Payment for the ſpace of 3 days, after the ſaid Term of 14 days, then the Bearer is Authorized to ſeize and ſell the Goods, and make him<g ref="char:EOLhyphen"/>ſelf reſtitution: Provided always that the owner have 3 days warning, be<g ref="char:EOLhyphen"/>fore ſuch ſeizure. And that at the time of ſeizure, the owner may if he pleaſe prevent it, by paying the Contents of the Notes, with an overplus of 12 pence <hi>per Note, per Diem,</hi> for the Bearers Damages and Diſappoint<g ref="char:EOLhyphen"/>ment. This Inſtrument is to be ſo drawn up, as to be firm ſecurity to the Bearer of Notes, nor need the owner be Solicitous at the firmneſs of ſuch Obligation, for he is bound to no more then what common honeſty always obliges him to, <hi>Viz.</hi> To pay his Debts. For if he give out theſe Notes in payment as Mony, he muſt expect to Anſwer them with Mony, when De<g ref="char:EOLhyphen"/>manded, or that his Goods make ſatisfaction. Nor are his Goods in any Danger, unleſs he utterly deſerts them (which cannot be ſuppoſed) for the owner is always ſure of 3 days notice, before the Goods can be Alienated.</p>
+            <p n="5">5. The Warehouſe to receive the Goods, is not one particular place (for then a vaſt Treaſure might be conſumed if fire happen) but any Ware<g ref="char:EOLhyphen"/>houſe will ſerve, provided it be Common and Free for every Mans uſe. The owner may chooſe one where he pleaſes, and pitch on proper Apart<g ref="char:EOLhyphen"/>ments there, as ſhall be agreeable to his Goods; he may ſecure them under a Lock, and keep the Key, and have free acceſs to them when he pleaſes: But he muſt not remove any thing, until it be diſcharged at the Office, for ſo the Warehouſe Keeper having declared a truſt for the Bearer, might come to damage.</p>
+            <p n="6">6. The Mony ſet apart to Circulate the Notes, muſt be Lodged ſome<g ref="char:EOLhyphen"/>where in ſome truſty hand that the owner ſhall chooſe, who is to certify in Writing, that he received ſuch a ſumm from ſuch a one, and will keep it in truſt for the Bearers of his Notes, or until he return the ſaid Certifi<g ref="char:EOLhyphen"/>cate,
+<pb n="6" facs="tcp:32994:5"/>
+               <hi>&amp;c.</hi> This is the place the Note is to be directed to, and hither the Bearer muſt repair for his Mony. As for the Banker that takes this trou<g ref="char:EOLhyphen"/>ble on him, it cannot be ſuppoſed he makes any advantage by the Mony, it being no more then ſufficient to Circulate the Notes, therefore the owner when he takes up his Notes, is to pay him a recompence of ſo much <hi>per</hi> Note.</p>
+            <p n="7">7. When the owner of Goods would enter them in the Office, he is to bring the foreſaid Inventory with the Warehouſe-Keepers and Bankers Certificates, and having Signed the aforeſaid Articles of Agreement, he is to have 3 fourths of the value in <hi>five pound Notes,</hi> which are of this form: <hi>I promiſe to pay unto Mr.—or Bearer, the Sum of five Pounds within four<g ref="char:EOLhyphen"/>teen days after his firſt Demand. Witneſs my hand,</hi> &amp;c.</p>
+            <p n="8">8. Theſe Notes when they are firſt paid away, are to be Dated and Sign<g ref="char:EOLhyphen"/>ed by their Principals, <hi>i. e.</hi> thoſe that took them out of the Office. Thereby the Bearer will know who is ultimately accountable for the Note, in caſe the Pledge ſhould come to any diſaſter. So that the Bearer has double ſe<g ref="char:EOLhyphen"/>curity for the value of his Note; the Pledge enſures the owner, and the owner (by giving his Note of promiſe as aforeſaid) enſures the Pledge: For by that Note he is as much accountable for the Mony, as if no Pledge had been depoſited. And here you may obſerve, that as he that takes the Notes is ſafe from any loſs by them, ſo he that gives them out is ſecure from being run upon, in regard of the fourteen days warning, for in that time he may make proviſion for their Payment.</p>
+            <p n="9">9. When the owner would withdraw his Goods out of the Warehouſe, and Mony out of the Bankers hand, he is to bring the Office ſo many Notes as he received, and take up all his Papers, whereby he is able to diſcharge the Banker and Warehouſe-Keeper from their truſts, and ſo may command his Goods and Mony again.</p>
+            <p n="10">10. Whereas the Counterfeiting of Notes is ſo often practiſed, and there<g ref="char:EOLhyphen"/>by their credit and currency much obſtructed, we have provided a peculiar way of Diſcrimination, which will effectually ſecure them from Forgery, becauſe hereby every Man that receives the Notes will be able to try their truth without going to the Office. The expedient is this: On one part of the Note is fixed a piece of Paper that is Chymically prepared, which if you write on with a peculiar ſort of Ink, the ſtrokes will preſently change from black to red, but on other Paper the writing by the ſaid Ink will remain black; this Ink every Man may keep by him, and thereby Ex<g ref="char:EOLhyphen"/>amine his Notes when he pleaſes with very little trouble, and if they An<g ref="char:EOLhyphen"/>ſwer ſuch Tryal he may be aſſured they are right; becauſe of the great diffi<g ref="char:EOLhyphen"/>culty of ſuch a Forgery; for tho other Notes may be exactly imitated by thoſe that through long practice have arrived at skill in writing and engraving, yet theſe Notes will not be ſo expoſed, becauſe this ſecret is not to be ob<g ref="char:EOLhyphen"/>tained by the dint and force of Induſtry as the other Arts are, but its diſco<g ref="char:EOLhyphen"/>very (if it happen) will be meerly fortuitous; and after that, the Man that
+<pb n="7" facs="tcp:32994:5"/>knows it, is never the more capable of forming a Counterfeit, unleſs he be dexterous alſo at Writing and Engraving (for theſe <hi>Lumber-Notes</hi> will be Printed from a Copper Plate, <hi>&amp;c.</hi>) and as it is very unlikely that any one Man ſhould ever be qualified to perform the whole buſineſs himſelf, ſo 'tis very great odds, if ſeveral Men accompliſht for the ſeveral parts of ſuch a Forgery ſhall happen to be ſo well acquainted as to meet and concert this affair. Or after all, if ſuch a thing ſhould happen, we can but call in the former Notes and Exchange them for others that have a new Criterion, and ſo we may defy thoſe impious Artiſts to begin as ſoon as they pleaſe, for (conſidering the difficulty of finding out this ſecret, the fatigue of giving a Note that Juſtneſs as to be fit to put off, the hazard of diſcovery in put<g ref="char:EOLhyphen"/>ting off, and the loſs of all their charge and pains by the appointing of a new <hi>Criterion</hi>) 'tis demonſtrable it cannot be worth their while.</p>
+            <p n="11">11. The Goods fit to be entred on this account are all ſuch, as are dur<g ref="char:EOLhyphen"/>able and of ſteddy value, but thoſe eſpecially are moſt fit that contain much value under a ſmall Bulk, for hereby the owner will ſave a great deal of the Charge of Warehouſe-Room. And alſo thoſe that require long keeping, and are the better for Age (ſuch as Leather, Tobacco, <hi>&amp;c.</hi>) for ſo the own<g ref="char:EOLhyphen"/>er reaps double Advantage, having his Stock to improve while his Goods are alſo upon improvement.</p>
+            <p n="12">12. And laſtly, conſider the profit that every Man may make by entring Goods, which will be very great both to the Landed-Man and Tradeſman, as I ſhall endeavour to Demonſtrate.</p>
+            <p>Firſt, The Landed-Man may make the Products of his Land, ſuch as Corn, Wool, Timber, Coals, Metals, <hi>&amp;c.</hi> A medium of Commerce which ſhall be Anſwerable to all intents and purpoſes, as Gold and Silver, and by Con<g ref="char:EOLhyphen"/>ſequence the Land that produces ſuch Goods, will be as valuable as if it had actually yielded thoſe Noble Metals, and when by this means the medium of Commerce ſhall be enlarged, the intereſt of Mony will fall much lower, which will be another occaſion of Advancing the value of Land.</p>
+            <p>Secondly, The Tradeſman will meet with great Advantages not only by the low intereſt of Mony, but by the opportunity of Trading upon the credit of his Dead Stock of Goods; which I ſhall evince by the following Ex<g ref="char:EOLhyphen"/>amples. Suppoſe a Merchant has by him 4000 <abbr>
+                  <hi>l.</hi>
+               </abbr> worth of Goods which he can't diſpoſe of at preſent to Advantage, he therefore enters them accord<g ref="char:EOLhyphen"/>ing to the methods propoſed for 3000 <abbr>l.</abbr> credit (<hi>i. e.</hi> 600 five pound Notes) to Circulate this credit he is at the Charge of procuring a tenth part of the ſaid ſumm, <hi>i. e.</hi> 300 <abbr>l.</abbr> in ſpecie, this perhaps during the preſent ſcarci<g ref="char:EOLhyphen"/>ty of Mony may coſt him 17 <hi>per cent.</hi> But this Charge will ceaſe as ſoon Notes and Mony are reduced to an Equality.</p>
+            <p>
+               <hi>The other Charge is as follows,</hi>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <abbr>
+                           <hi>l.</hi>
+                        </abbr>
+                     </cell>
+                     <cell role="label">
+                        <abbr>
+                           <hi>s.</hi>
+                        </abbr>
+                     </cell>
+                     <cell role="label">
+                        <abbr>
+                           <hi>d.</hi>
+                        </abbr>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>For the intereſt of 300 <abbr>l.</abbr> for a whole year</cell>
+                     <cell>18</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>For 600 <hi>Lumber-Notes</hi> at 2 <abbr>
+                           <hi>d.</hi>
+                        </abbr> each</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>For Appraiſment of the Goods ſuppoſe</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>For entry at the Office</cell>
+                     <cell>0</cell>
+                     <cell>5</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">24</cell>
+                     <cell role="total">5</cell>
+                     <cell role="total">0</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="8" facs="tcp:32994:6"/>
+            <p>This is all the Charge that properly belongs to this account. As for Car<g ref="char:EOLhyphen"/>tage, Porterage, Warehouſe-Room, <hi>&amp;c.</hi> The Goods will require whether they are concerned in this matter or nor. So then the Merchant will enjoy the effective ſumm of 3000 <abbr>
+                  <hi>l.</hi>
+               </abbr> the ſpace of a year, for the charge of 24 <abbr>
+                  <hi>l.</hi>
+               </abbr> 5 <abbr>
+                  <hi>s.</hi>
+               </abbr> tho at firſt, we muſt add 48 <abbr>
+                  <hi>l.</hi>
+               </abbr> more, being the price of Procuration, both which together make 72 <abbr>
+                  <hi>l.</hi>
+               </abbr> 5 <abbr>
+                  <hi>s d.</hi>
+               </abbr> whereas the uſual intereſt of ſo much Mo<g ref="char:EOLhyphen"/>ny amounts to 850 <abbr>
+                  <hi>l.</hi>
+               </abbr>
+               <hi>per An.</hi> So that the Merchant gains 77 <abbr>
+                  <hi>l.</hi>
+               </abbr> 15 <abbr>
+                  <hi>s.</hi>
+               </abbr> over and above the uſual profits he hopes to make when he fells theſe Goods. But as ſoon as Mony and Notes become equal, his Charge will be only 24 <abbr>
+                  <hi>l.</hi>
+               </abbr> 5 <abbr>
+                  <hi>s.</hi>
+               </abbr> and then he will (inſtead of the 77 <abbr>
+                  <hi>l.</hi>
+               </abbr> aforeſaid) be gainer 126 <abbr>
+                  <hi>l.</hi>
+               </abbr> 15 <abbr>
+                  <hi>s.</hi>
+               </abbr> This I think is good Encouragement, conſidering that if he let his Stock lye by dead a whole year, he not only loſes the intereſt of 4000 <abbr>
+                  <hi>l.</hi>
+               </abbr>
+               <hi>viz.</hi> 200 <abbr>
+                  <hi>l.</hi>
+               </abbr> But is in the mean time ſtraitned in his Buſineſs, for want of Stock to Trade with.</p>
+            <p>But beſides, there is another thing very conſiderable for the Tradeſman's Encouragement, and that is the <hi>quick Returns</hi> of his Stock, which are pro<g ref="char:EOLhyphen"/>moted by this method; as for Example, ſuppoſe a Man has a dead Stock of Goods to the value of 40 <abbr>
+                  <hi>l.</hi>
+               </abbr> he enters theſe at the office for 30 <abbr>
+                  <hi>l.</hi>
+               </abbr> Credit: hereby it is evident that ¾ths of his Stock is immediately returned. This 30 <abbr>
+                  <hi>l.</hi>
+               </abbr> Credit is ſpecified by 6 Notes; and with theſe (ſuppoſe) he buys more Goods to the value of 30 <abbr>
+                  <hi>l.</hi>
+               </abbr> which he enters for 4. Notes, or 20 <abbr>
+                  <hi>l.</hi>
+               </abbr> Credit, and ſo makes a return of ½ of his Original Stock. This 20 <abbr>
+                  <hi>l.</hi>
+               </abbr> Credit will pur<g ref="char:EOLhyphen"/>chaſe more Goods to the value of 20 <abbr>
+                  <hi>l.</hi>
+               </abbr> and theſe may be entred for 3 Notes, and theſe 3 Notes will buy 15 <abbr>
+                  <hi>l.</hi>
+               </abbr> worth of Goods, that may be entred, <hi>&amp;c.</hi> for 2 Notes; theſe will purchaſe 10 <abbr>
+                  <hi>l.</hi>
+               </abbr> worth of Goods which may be en<g ref="char:EOLhyphen"/>tred, <hi>&amp;c.</hi> for one Note, and this will buy 5 <abbr>
+                  <hi>l.</hi>
+               </abbr> worth of Goods. Thus by every bargain and entry he has returned ſome part of his Original Stock. Now if he ſell all theſe Goods (which together amount to the value of 120 <abbr>
+                  <hi>l.</hi>
+               </abbr>) at the rate of 10 <hi>per Cent</hi> profit, he then raiſes the ſum of 122 <abbr>
+                  <hi>l.</hi>
+               </abbr> out of this he is to Anſwer 16 Notes, which comes to 80 <abbr>
+                  <hi>l.</hi>
+               </abbr> then he has left (40 <abbr>
+                  <hi>l.</hi>
+               </abbr>) his firſt Stock, and 12 <abbr>
+                  <hi>l.</hi>
+               </abbr> gains, which after all charges are deducted, may be about (9 <abbr>
+                  <hi>l.</hi>
+               </abbr>) Now compare this method with the preſent way of Trade. Suppoſe a Tradeſman diſpoſes of 40 pounds worth of Goods for 10 <hi>per Cent</hi> profit, (which is 4 <abbr>
+                  <hi>l.</hi>
+               </abbr>) and after 9 or 12 months he receives his Mony. And having deducted the intereſt loſt by truſting ſo long, he really gains, but 1 <abbr>
+                  <hi>l.</hi>
+               </abbr> 13 <abbr>
+                  <hi>s.</hi>
+               </abbr> 4 <abbr>
+                  <hi>d.</hi>
+               </abbr> which is but a poor recompence for his Charge, Trouble, and Hazard: And upon this Account it is, that the Generality of Tradeſmen are expoſed to very great Diſcouragements, which will be removed by this expedient of a <hi>Lumber-Office.</hi>
+            </p>
+            <p>I ſhall next Anſwer various Queries, that will naturally ariſe upon this ſubject.</p>
+            <p>Q. <hi>How ſhall we make theſe Notes paſs, for at this time nothing will ſatisfy but Mony? Anſw.</hi> There is no doubt, but that if Notes are well ſecured and duely paid, they will be accepted as Mony, nevertheleſs, thoſe that are
+<pb n="9" facs="tcp:32994:6"/>poſitive in their Demands of Mony, may be as freely paid in Mony as Notes, for 'tis really all one, in paying Notes you part with the ſame va<g ref="char:EOLhyphen"/>lue as if it were Mony. But if it happen you have not Mony, they muſt ei<g ref="char:EOLhyphen"/>ther take your Notes, or truſt on till you have it. And be ſure, rather then depend upon uncertainties they will take theſe ſecured Notes, for by theſe they are ſure of their Mony in fourteen days.</p>
+            <p>Q. <hi>But why ſhould I thus oblige my ſelf to pay in</hi> 14 <hi>days? When at preſent I am at Liberty, to hold my Creditours in Play as many months if I pleaſe. Anſw.</hi> There is no reaſon why a juſt debt ſhould not be paid in 14 days as well as 14 Months, nor is there any thing got by delay, ſince it muſt be paid at laſt. Perhaps you'll ſay you ſave the intereſt of the Mony, but 'tis moſt certain the Tradeſman muſt allow himſelf for that loſs, in the price of his Goods<g ref="char:punc">▪</g> or elſe he can't live, and one time or other you muſt refund what you have ſo ſordidly gotten. But further conſider this <hi>Liberty</hi> of paying when you pleaſe; confounds all Trade, for the Tradeſman can't lay hold on ſeveral opportunities of buying, becauſe he is kept out of his Mony, nor dare he accept of many opportunities of ſelling, for fear of ſlow Payment and bad Debts: But if he were ſure of his Mony in 14 days, or a month, or two, or be it more, ſo it be but <hi>certain;</hi> 'tis as good as ready Mony, becauſe he can order his Affairs with certainty. And laſtly conſider, that the punctual Payment here required is abſolutely neceſſary, to ſupport the currency of your Notes, and if you cannot comply with the Terms, you muſt deny your ſelf thoſe Advantages which are to be made, by having Credit on your dead Stock of Goods.</p>
+            <p>Q. <hi>But how can a tenth part in ſpecie ſuffice for Circulating theſe Notes? For certainly during the violent Demands of ſpecie, nothing leſs than an equal quantity will do. And if ſo, it cannot be worth while to purchaſe Mony at</hi> 17 per Cent. <hi>for this purpoſe. Anſw.</hi> Yes, 'tis worth while tho an equal quantity of ſpe<g ref="char:EOLhyphen"/>cie were always neceſſary for this purpoſe. For ſuppoſe you pay 17 <abbr>
+                  <hi>l.</hi>
+               </abbr> to pro<g ref="char:EOLhyphen"/>cure the Loan of 100 <abbr>
+                  <hi>l.</hi>
+               </abbr> in ſpecie to Circulate 100 <abbr>
+                  <hi>l.</hi>
+               </abbr> in Paper, you then have the effectual ſumm of 200 <abbr>
+                  <hi>l.</hi>
+               </abbr> for the ſaid <hi>premium</hi> of 17 <abbr>
+                  <hi>l.</hi>
+               </abbr> which is no more then half the prices what others are forced to give. And further conſider, if theſe Notes are ſo ſecured, that their Payment is certain and unavoidable, I cannot ſee, but that they are equivalent to ſpecie, and may be bought and ſold as ſuch, and ſeeing you are furniſht at a half price, you have an oppor<g ref="char:EOLhyphen"/>tunity of Advantage by ſelling them, if you do not need them for other uſes. But when the medium of Commerce ſhall be ſo far enlarged, as to cauſe this price of Mony to ceaſe, you will eaſily grant me that the De<g ref="char:EOLhyphen"/>mands of ſpecie will be ſo moderate, as that all Notes may be Circulated by a tenth part in ſpecie.</p>
+            <p>Q. <hi>But why ſhould I put my ſelf to Charge in taking out theſe Notes, ſince 'tis a queſtion whether (if I ſhould paſs them away) they will ſtay abroad ſo long, as to Countervail the Charge? Anſw.</hi> You are ſure of 14 days reſpite, for every Man in taking the Note, conſents to ſtay ſo long for his Mony, and
+<pb n="10" facs="tcp:32994:7"/>in that time 'tis odds, but the Bearer may have occaſion to pay them away, and ſo gains you longer time, or if he have no urgent occaſion, 'tis not pro<g ref="char:EOLhyphen"/>bable he ſhould be in Poſt haſte to give the pre-requiſite warning of 14 days; being well aſſured his Mony is good: Either way you have a fair chance for gaining time. Or ſuppoſe the worſt, that he comes on the 14th day after the date of the Note, yet you are no loſer, as appears by this Example which we mentioned before. Suppoſe you have given out 600 Notes to one Man, and he brings them all again on the 14th day, to be Anſwered with 3000 <abbr>
+                  <hi>l.</hi>
+               </abbr> in Mony; the Mony was due when you paid out the Notes, but by defering it for 14 days, you have ſo much of the Intereſt as amounts to 7 <abbr>
+                  <hi>l.</hi>
+               </abbr> whereas the charge of the Notes, the Entry, Appraiſment, <hi>&amp;c.</hi> is all toge<g ref="char:EOLhyphen"/>ther but 6 <abbr>
+                  <hi>l.</hi>
+               </abbr> 5 <abbr>
+                  <hi>s.</hi>
+               </abbr> So that you are no loſer.</p>
+            <p>Q. <hi>But ſuppoſe I am run upon with Notes, at a time when I am bare of Mony, muſt my Goods by ſuch an accident he expoſed to ſeizure? Anſw.</hi> You can never be ſurprized as you imagine, becauſe you have always 14 days notice to pro<g ref="char:EOLhyphen"/>vide for Payment. Again, conſider that the reaſons which moved you to be concerned in entring Goods, have influenced abundance of Tradeſmen be<g ref="char:EOLhyphen"/>ſides: And if you find any one of theſe to preſs impertinently for ſpecie, 'tis likely the Office, if you deſire it, may be able in 14 days time to help you to ſo many of his Notes as will pay him. Doubtleſs, the meer poſſibility of ſuch a thing will be a check upon all troubleſome demands of ſpecie, and if Tradeſmen ſhall for this reaſon favour one another, you need not fear other perſons, for they are not like to have ſo many of your Notes as to puzzle your Payment.</p>
+            <p>Q. <hi>But why do you propoſe only a tenth part to be Lodged at the Bankers, for Circulating the Notes, when 'tis evident, an equal part can but juſt ſuffice: For at firſt every Man will be eager to try the ſtrength of his Note, and draw out the Mo<g ref="char:EOLhyphen"/>ny as ſoon as poſſible? Anſw.</hi> At firſt therefore you muſt be Cautious not to deliver out more Notes then your ſpecie will Anſwer: And afterwards, when the World begins to be acquainted with the validity of the Notes, they will not be in ſuch haſte to draw out their Mony, and ſo you may gra<g ref="char:EOLhyphen"/>dually give out the reſt of your Notes.</p>
+            <p>Q. <hi>But may not the Bearer of Notes, who is inveſted with the power of ſelling the Goods, be injurious to the owner by unneceſſary expoſing them to Sale? Anſw.</hi> No, he cannot, for according to agreement in the <hi>deed,</hi> the owner is to have 3 days notice before Seizure can be made, and in that time he may prevent it if he pleaſe by paying the Mony, or if any damage happen afterwards, 'tis wholly owing to himſelf.</p>
+            <p>Q. <hi>But ſuppoſe I have entred Goods on this Account, and have delivered out all my Notes; muſt I ſtay till all theſe Notes return home again, before I can take out my Goods from the Warehouſe? Anſw.</hi> No, tho your Notes are all a<g ref="char:EOLhyphen"/>broad, yet you may remove your Goods at any time, provided you bring ſo many <hi>Lumber-Notes</hi> of one ſort or other, for they being equally ſecured by valuable Pledges, may promiſcuouſly exchange for each other.</p>
+            <pb n="11" facs="tcp:32994:7"/>
+            <p>Q. <hi>But if I remove my Goods while my Notes are abroad, I take away the Pledge that Anſwers my Notes, and how are the Bearers ſafe in that caſe? Anſw.</hi> Tho there are no Goods immediately belonging to your Notes, yet the Notes left in their Room (when you redeem'd your Goods) have Goods to ſup<g ref="char:EOLhyphen"/>port them: And whenever the Bearer of your Notes ſhall repair to the place of payment, and there find your account cloſed, he can but carry them to the Office, where they will be Cancelled, and exchanged for others that will be paid.</p>
+            <p>Q. <hi>But the Warehouſe-Keeper has a declared truſt for the Bearer of my Notes, and therefore without ſight of thoſe Notes he cannot ſafely deliver me my Goods. Anſw.</hi> If the Warehouſe-Keepers obligation be returned him, he is diſcharged from his truſt. Now this Writing you muſt procure from him, by paying an equivalent in Notes at the Office: And when he has taken up this Writing, he need not care what becomes of thoſe particular Notes.</p>
+            <p>Q. <hi>But how may the Bearer be aſſured, there are ſuch Goods in Cuſtody, or that they ſhall be detained until his Notes are Anſwered. Anſw.</hi> The Bearer that is diſſatisfied may view the Writings at the Office, and there ſee the Teſtimo<g ref="char:EOLhyphen"/>ny of the Sworn Appraiſer, as to matter of fact, who may be believed, both becauſe he is Sworn to be faithful, and becauſe he has no iutereſt to deceive, for if the Bearer be like to ſuffer through his negligence, he muſt make him reſtitution. Nor can the owner think it any favour to have part of his Goods (mentioned in the Inventory) left at home, for he is nevertheleſs accountable for his Notes. Nor can it be ſuppoſed, the Warehouſe-Keeper ſhould acknowledge the Receipt of ſuch Goods, and ſo make himſelf account<g ref="char:EOLhyphen"/>able for things he has not; much leſs can it be ſuppoſed, that he ſhould deli<g ref="char:EOLhyphen"/>ver them before they are duely diſcharged, for thereby he will expoſe him<g ref="char:EOLhyphen"/>ſelf to Anſwer damages to the Bearer. Therefore the Bearer has all the Moral aſſurance that can be, that his Notes have Goods to Anſwer them, and more he cannot have tho he ſaw the Goods, for he muſt ſtill take it upon truſt that theſe are the Goods, that belong to his Notes. If he have the Leiſure and Curioſity to Examine whether the Goods agree with the In<g ref="char:EOLhyphen"/>ventory, he muſt ſtay till the time comes to Seize the Goods: In the mean time, as long as he never hears any Complaint of defaults in that reſpect, and if he find that all Notes are duely paid, 'tis an Argument to ſence, that there is a ſufficient actual <hi>Cogency</hi> ſomewhere. And ſo long the Bearer may be ſatisfied, tho he be not particularly informed what ſort of Goods the Pledge belonging to his Notes does conſiſt of.</p>
+            <p>Q. <hi>You ſay theſe Notes are as good as Mony, but how does that appear? For the Notes may commonly be paid well, yet ſometimes we find they fall ſhort? Anſw.</hi> Theſe Notes differ from other Notes; they are Notes of promiſe, and ſomewhat more, <hi>Viz.</hi> A Transfer of conditional Title to certain Goods of equal value, as appears by the <hi>Deed</hi> at the Office. So that there is a Real and Perſonal ſecurity which we can't ſuppoſe will fail both together, and while either of them hold, the Bearer cannot looſe by his Notes; whereas
+<pb n="12" facs="tcp:32994:8"/>other Notes wholly depend on perſonal ſecurity. Therefore the Bearer may look on theſe Notes as Tantamount to ſo many five pound pieces of Gold, and really they are ſo, for all the ends of Commerce, any, in ſome reſpects better then Mony, being not ſubject to the like hazards. As for inſtance, when you take Mony you are not ſure it is true, as to weight and ſtandard, and perhaps have not opportunity or skill to try it: But theſe Notes carry with them ſatisfactory evidences of their truth, which you may eaſily try by the liquor of probation. Mony is often the occaſion of Burglaries, Murders, <hi>&amp;c.</hi> but theſe Notes will be no prey in that caſe, for they will not be paid, till the 14th day after notice, and in that time the injured party may enter a Caveat at the place of Payment: And if the Number of the Note be publiſh<g ref="char:EOLhyphen"/>ed, it may prove an occaſion of apprehending the Felon. Mony may be loſt, and is ſeldom or never recoverable afterwards, but the theſe Notes are loſt, yet the Pledge is ſtill endebted to the laſt Bearer, and he may have his loſs repaired with other Notes, provided he can tell their Numbers, and will give ſecurity againſt their future appearance.</p>
+            <p>Q. <hi>But how can a little piece of Paper ſtand in compariſon with Mony? For this has intrinſick value? Anſw.</hi> What matters it what the outward form of Caſh is? Be it Mettal, or Leather, or Paper, it is all one, ſo it will commute value for value. As for the Intrinſick value of Gold and Silver, 'tis no more then a <hi>Relative</hi> value, in that they are (by reaſon of their ſearcity) become the meaſure of Commutation: But as to any value inherent in their natures, I do not know that they excel ſo much; for other Metals (called <hi>Baſe</hi> becauſe they are found in great plenty) are really of more uſe to mankind. Now if Mony be deſirable only for its relative value, then I ſay theſe Notes may vie with it, for there is not one Note but what has <hi>Relation</hi> to a Pledge, that if there be no occaſion will raiſe the value of the Note.</p>
+            <p>Q. <hi>But how are we ſure that the Office will not deliver out more Notes then they have Pledges to ſupport them? Anſw.</hi> There is no ground for ſuch a Jealou<g ref="char:EOLhyphen"/>ſy, it being impoſſible for them to gain by ſuch a fraud, for all Notes deli<g ref="char:EOLhyphen"/>vered out of the Office muſt return thither, to be anſwered with other Payable Notes, or if theſe be wanting, they are to aſſiſt the Bearer in the recovery of the Pledge, or if the Pledge ſhould happen to be deſtroyed by any Caſualty, yet it will lye on them to prove who was the firſt Author of the Note, that ſo the Bearer may ſue him for his Note of promiſe.</p>
+            <p>Theſe are all the Queries and Difficulties I can think of at preſent, and if any others ariſe, I doubt not but they may be anſwered to ſatisfaction. Thus you have a general view of this undertaking, and I might now deſcend to particulars relating to the practical part, but I forbear till I hear the opi<g ref="char:EOLhyphen"/>nion of Merchants and Traders, who are the moſt proper Judges in this mat<g ref="char:EOLhyphen"/>ter, and if they ſhall reſolve to encourage it, Trade will ſoon arrive to ſuch an happy pitch, as to make the Nation more Glorious then ever.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:32994:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
